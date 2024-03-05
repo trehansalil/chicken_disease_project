@@ -1,8 +1,17 @@
-pip-chill
-bentoml
-torchvision
+tensorflow
+pandas 
+dvc
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
 joblib
-tdqm
-wincertstore
-from-root
+types-PyYAML
+scipy
+Flask
+Flask-Cors
 -e .
